@@ -15,17 +15,17 @@ const Cards = () => {
     {
       Text: "As conscious traveling Paup ers we must always be concerned about our dead Mother Earth. If you think about it, you travel across her face",
       Name: "FANNY SPENCER",
-      Rating: <Star fill="yellow" size={20} />,
+      Rating: <Star size={20} />,
     },
     {
       Text: "As conscious traveling Paup ers we must always be concerned about our dead Mother Earth. If you think about it, you travel across her face",
       Name: "FANNY SPENCER",
-      Rating: <Star fill="yellow" size={20} />,
+      Rating: <Star size={20} />,
     },
     {
       Text: "As conscious traveling Paup ers we must always be concerned about our dead Mother Earth. If you think about it, you travel across her face",
       Name: "FANNY SPENCER",
-      Rating: <Star fill="yellow" size={20} />,
+      Rating: <Star size={20} />,
     },
   ];
   return (
